@@ -31,7 +31,7 @@ Tính **điểm trung bình** của các điểm hợp lệ.
 
 ---
 
-## 📁 Cấu trúc thư mục dự án
+## Cấu trúc thư mục dự án
 
 ```
 unit-test/
