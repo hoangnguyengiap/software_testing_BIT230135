@@ -19,7 +19,7 @@ Chương trình Java **StudentAnalyzer** cung cấp các phương thức để p
 
 ---
 
-### 2️⃣ `calculateValidAverage(List<Double> scores)`
+### 2️ `calculateValidAverage(List<Double> scores)`
 
 **Mục đích**  
 Tính **điểm trung bình** của các điểm hợp lệ.
